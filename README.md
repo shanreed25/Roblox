@@ -1,4 +1,4 @@
-# Beginners Guide to Roblox Development
+# 💎 Beginners Guide to Roblox Development
 **This is a comprehensive educational repository designed for beginners learning Lua scripting and game development in Roblox. The repository is structured to provide both theoretical knowledge and practical, hands-on experience through real game projects.**
 
 
