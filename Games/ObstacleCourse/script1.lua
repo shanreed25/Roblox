@@ -1,6 +1,6 @@
 --GOAL: Make the game functional by loading all the game components and making them functional
---when a player steps on a button the button will be pressed and the gate will open
---the player has 10 seconds to get through the gate before the gates close
+	--when a player steps on a button the button will be pressed and the gate will open
+	--the player has 10 seconds to get through the gate before the gates close
 
 
 --TODO 1: LOAD ALL THE GAME COMPONENTS
@@ -31,8 +31,11 @@ print(button1)
 button1.Touched:Connect(function(touchedPart)
 	--Step 1: Check to see if it is a player that touched the button
 		--returns true if the touchedPart is a child("Humanoid") of the player character
-	local humanoid = touchedPart.Parent:FindFirstChild("Humanoid")
-	print("Player touched the button")
-	
+	local touchedbyPlayer = touchedPart.Parent:FindFirstChild("Humanoid")
+
+	--if touchedbyPlayer is true(if the player has touched the part)
+	if touchedbyPlayer then
+
+
 	local touched = button:FindFirstChild("Touched")
 end)

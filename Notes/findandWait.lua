@@ -21,9 +21,11 @@ local model = script.Parent
 
 --VS--
 
---FindFirstChild() is a Instance
--- FindFirstChild(): returns the child if the child is found
--- if child is not found, returns nil 
+--FindFirstChild()------------------------------------
+--FindFirstChild is a function that returns the child if the child is found
+	--returns the child if the child is found
+	-- if child is not found, returns nil
+	
 --local part1 = model:FindFirstChild("Part6")
 --print(part1)
 
@@ -32,9 +34,10 @@ local ramp1 = model:FindFirstChild("Ramp1")
 if ramp1 then
 	ramp1.BrickColor = BrickColor.new("Cocoa")
 end
---WaitForChild() is a Instance---------------------------------------------------------
---WaitForChild(): returns the child if the child is found
---if child is not found, yields(pauses) script until child is found
+--WaitForChild()---------------------------------------------------------
+--WaitForChild is a function that waits for a child to be added to the given parent
+	--returns the child if the child is found
+	--if child is not found, yields(pauses) script until child is found
 
 local ramp2 = model:WaitForChild("Ramp2")
 print("Ramp 2 has been detected")
