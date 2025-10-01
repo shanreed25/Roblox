@@ -15,14 +15,14 @@
 - **Ramp Game:** Another game project with modular components and kill zones
 **Versioned Development:** Shows how projects evolve with version1, version2 directories
 
-### Progressive Learning Approach
+### 🚀 Progressive Learning Approach
 **Starts with basic Lua concepts and builds up to complex game mechanics**
 - **Hands-On Projects:** Real Roblox games that demonstrate practical application of programming concepts
 - **Event-Driven Programming:** Focus on Roblox's event system (touched events, player events)
 - **Modular Design:** Games are broken down into reusable components and scripts
 - **Version Control:** Multiple versions of projects show development progression
 
-### Key Features:
+### 🔑 Key Features:
 - **Beginner-Friendly:** Starts with basic concepts like variables and functions
 - **Roblox-Specific:** Uses actual Roblox API calls (game.Workspace, Color3.new(), Material properties)
 - **Interactive Elements:** Touch events, kill zones, and player interaction systems
