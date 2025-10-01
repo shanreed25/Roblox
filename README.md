@@ -1,6 +1,7 @@
 # 💎 Beginners Guide to Roblox Development
 **This is a comprehensive educational repository designed for beginners learning Lua scripting and game development in Roblox. The repository is structured to provide both theoretical knowledge and practical, hands-on experience through real game projects.**
 
+- **[Roblox Creator Hub API Reference:](https://create.roblox.com/docs/reference/engine)**
 
 ### 📚 Code Guides Folder
 **Fundamental Lua programming concepts**

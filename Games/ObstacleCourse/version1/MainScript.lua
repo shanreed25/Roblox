@@ -1,7 +1,7 @@
 --GOAL:
 	--when a player steps on the button the button will be pressed
 	--a 10 second timer will start and after 10 seconds the button will unpress
-    --the player can press the button again after the timer is done
+	--the player can press the button again after the timer is done
 ----------------------------------------------------------
 
 
@@ -11,16 +11,12 @@
 --LOAD GAME--wait for "MainGame"(child) to be added to the Workspace(parent)
 local mainGame = game.Workspace:WaitForChild("MainGame")
 
---LOAD GATES--wait for "Gates"(child) to be added to the mainGame(parent)
---Gets MainGame --> Gates
-local gate = mainGame:WaitForChild("Gates")
---print(gate)
 
 --LOAD BUTTONS--wait for "Buttons"(child) to be added to the mainGame(parent)
 --Gets MainGame --> Buttons
-local button = mainGame:WaitForChild("Buttons")
+local buttonsFolder = mainGame:WaitForChild("Buttons")
 --print(button)
-button1 = button:FindFirstChild("Stage1Button1")
+button1 = buttonsFolder:FindFirstChild("Stage1Button1")
 print(button1)
 ------------------------------------------------------------------------------
 --TODO 2:Connect a touched event to the button
@@ -68,3 +64,5 @@ button1.Touched:Connect(function(touchedPart)
 	end
 	
 end)
+
+
