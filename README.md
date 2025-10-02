@@ -5,6 +5,7 @@
 
 ### 📚 [Roblox Coding](./RobloxCoding/README.md)
 - [Getting Started: Roblox Studio](./RobloxCoding/Getting%20Started/README.md)
+    - Learn how to get started coding in Roblox Studio
 - [Data Model](./RobloxCoding/Getting%20Started/DataModel.md)
     - Learn about the root Instance of Roblox's parent/child hierarchy
 - [Scripts](./RobloxCoding/Getting%20Started/Scripts.md)

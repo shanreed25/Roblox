@@ -1,0 +1,17 @@
+# Multi-Player Model: Server Client Model
+- any Roblox game follows this model
+- **SERVER:** reserved section of a game that oversees the whole game
+    - camera is directed over the entire game, not one specific player
+    - controls everything that happens with the game
+    - controls synchronization among all players of the game
+    - **replcation:** when something happens in the server, it will be replicated to be shown to every player in the server from their point of view
+    - **transmitting data:**
+        - **Server Scripts:** from the server to all clients
+            - if we want to change something through a script, that is replicated(shown) for all players
+        - **Local Scripts:** from the server to one client
+            - if we want to change something through a script, that is replicated(shown) for only one player
+        - from one client(player) to the server
+- **Client:** is like each individual player and they each connect to the client
+    - camera is directed towards the player
+    - they see every thing from their point of view
+- View a drawing of this [here](https://create.roblox.com/docs/projects/client-server)
