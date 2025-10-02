@@ -3,16 +3,22 @@
 
 - **[Roblox Creator Hub API Reference:](https://create.roblox.com/docs/reference/engine)**
 
-### 📚 [Code Guides Folder](./Code-Guides/README.md)
-**Fundamental Lua programming concepts**
-- **Basic Programming Concepts:** variables, functions, logical operators, relational operators etc....
-- **Control Flow:** Loops (for, while, nested), conditionals, and flow control (break/continue)
-- **Roblox-Specific Topics:** Working with game objects, properties, and the Workspace
-- **Event-Driven Programming:** Player events, touch events, and callback functions
+### 📚 [Roblox Coding](./RobloxCoding/README.md)
+- [Getting Started: Roblox Studio](./RobloxCoding/Getting%20Started/README.md)
+- [Data Model](./RobloxCoding/Getting%20Started/DataModel.md)
+    - Learn about the root Instance of Roblox's parent/child hierarchy
+- [Scripts](./RobloxCoding/Getting%20Started/Scripts.md)
+    - Learn what scripts are and how they instruct the Roblox engine to perform operations
+- [Working With Scripts](./RobloxCoding/WorkingWithScripts/README.md)
+    - **Fundamental Lua programming concepts:** variables, functions, logical operators, relational operators etc....
+    - **Control Flow:** Loops (for, while, nested), conditionals, and flow control (break/continue)
+    - **Event-Driven Programming:** Player events, touch events, and callback functions
+- [Roblox Objects](./RobloxCoding/RobloxObjects/README.md)
+    - **Roblox-Specific Topics:** Working with game objects, properties, and the Workspace
+
 
 ### 🎮 [Games](./Games/README.md)
 **Practical projects for applying learned concepts**
-
 - **Versioned Development:** Shows how projects evolve with version1, version2 directories
 
 ### 🚀 Progressive Learning Approach
