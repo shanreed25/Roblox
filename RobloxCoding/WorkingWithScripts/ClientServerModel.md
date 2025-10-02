@@ -15,3 +15,15 @@
     - camera is directed towards the player
     - they see every thing from their point of view
 - View a drawing of this [here](https://create.roblox.com/docs/projects/client-server)
+
+## Client and Server View
+- In Roblox Studio when you click `Test ➡️ Play` you will see the game frome the client/player perspective
+- You can toggle between the client and server view
+
+    - ![toggle-client-server-view](toggle-client-server-view.png)
+
+## Client and Server Scripts
+- when we run a script on the client you will see the output in blue
+- when we run a script on the server you will see the output in green
+
+![alt text](client-server-script-output.png)

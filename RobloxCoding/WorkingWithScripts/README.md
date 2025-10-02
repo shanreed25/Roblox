@@ -21,7 +21,8 @@
 - for organizing and reusing code across other scripts
 - are for code organization and reusability, allowing other scripts to call their functions. 
 
-
+### Start Writing Scripts
+- to start writing scripts make sure you have the explorer, properties and out windows visiable
 
 
 
