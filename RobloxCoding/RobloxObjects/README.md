@@ -15,4 +15,7 @@
 
 
 ## List
-- [Players Folder vs Player Object vs Player Character](./Player/Players.md)
+- [Player](./Player/Players.md)
+    - Players Folder vs Player Object vs Player Character
+- [Tools](./Player/Tools.md)
+    - items for players to use from their backpack or inventory 

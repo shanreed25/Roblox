@@ -44,3 +44,9 @@
     - navigate to the documentation for the specific class or service you are interested in (e.g., BasePart, Players, RunService) and look for the "Events" section.
 - **[Object Browser in Roblox Studio:]**
 - the Object Browser in Roblox Studio provides a visual way to explore an object's properties, functions, and events, including descriptions and arguments.
+
+
+### Event Script Examples
+- [PlayerAdded](./playerAddedEvent.lua)
+- [Tool Events](./toolevents.lua)
+- [TouchedEvent](./touchedEvent.lua)

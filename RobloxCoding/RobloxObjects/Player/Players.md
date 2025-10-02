@@ -6,10 +6,10 @@
 - In Explorer under the Workspace folder
 - This folder is empty during developemnt, unless we add something to it
 
-    ![alt text](players-folder-development.png)
+    ![alt text](./images/players-folder-development.png)
 - When we click play to test the game, then all the **player objects** within the game are added to this folder
 
-    ![alt text](players-folder-testing.png)
+    ![alt text](./images/players-folder-testing.png)
 
 # Player Object(inside the players folder)
 - **Contains four items:**
@@ -24,4 +24,4 @@
 # Player Character
 - located insided the workspace, during testing
 
-    ![alt text](player-character.png)
+    ![alt text](./images/player-character.png)

@@ -14,6 +14,7 @@
     - **Fundamental Lua programming concepts:** variables, functions, logical operators, relational operators etc....
     - **Control Flow:** Loops (for, while, nested), conditionals, and flow control (break/continue)
     - **Event-Driven Programming:** Player events, touch events, and callback functions
+    - **Garbage Collection:** handling unnecessary or unneeded objects or instances
 - [Roblox Objects](./RobloxCoding/RobloxObjects/README.md)
     - **Roblox-Specific Topics:** Working with game objects, properties, and the Workspace
 

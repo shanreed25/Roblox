@@ -21,8 +21,8 @@
 - [Server Scripts](./ServerScripts.md)
 - [LocalScripts](./LocalScripts.md)
 - [ModuleScripts](./ModuleScripts.md)
-- [Conditionals]()
-- [Events]()
+- [Conditionals](./conditionals/README.md)
+- [Events](./events/README.md)
 
 
 
