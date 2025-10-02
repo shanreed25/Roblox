@@ -20,10 +20,10 @@
 - In Roblox Studio when you click `Test ➡️ Play` you will see the game frome the client/player perspective
 - You can toggle between the client and server view
 
-    - ![toggle-client-server-view](toggle-client-server-view.png)
+    - ![toggle-client-server-view](./images/toggle-client-server-view.png)
 
 ## Client and Server Scripts
 - when we run a script on the client you will see the output in blue
 - when we run a script on the server you will see the output in green
 
-![alt text](client-server-script-output.png)
+![alt text](./images/client-server-script-output.png)

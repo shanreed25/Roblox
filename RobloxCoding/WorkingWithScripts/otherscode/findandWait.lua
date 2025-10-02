@@ -38,6 +38,13 @@ end
 --WaitForChild is a function that waits for a child to be added to the given parent
 	--returns the child if the child is found
 	--if child is not found, yields(pauses) script until child is found
+	--local part = game.Workspace.Part
+		--sometimes it works, sometimes it doesnt
+		--because the part may not load faster than the script
+		--so we can use a WaitForChild() function to force the script to wait for the part to load
+
+
+
 
 local ramp2 = model:WaitForChild("Ramp2")
 print("Ramp 2 has been detected")
