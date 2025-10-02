@@ -65,12 +65,6 @@
     - the user will not be able to activated the tool by clicking or tapping etc...
     - activation will happen only through scripts
 
-### 📜 Script Tool
-- use local scripts
-- [Script Example](../../WorkingWithScripts/events/toolevents.lua)
-<!-- - demostartion uses a regular script right now I will change later -->
-
-
 ## ⚙️ Create a Tool: Starter Gear
 - like the starter pack but the tools specific to a particular player or team
 - add the tool to the `ReplicatedStorage` folder
@@ -85,3 +79,11 @@
     - if you go back into the server and delete the tool from the `StarterGear` folder
     - then go back to the client and reset the player, it will no longer spawn in with the tool
 - you can do this with a script by setting the parent of the tool to the backpack and to the starter gear so when the player spawns in they will have the tool
+
+
+### 📜 Script Tool
+- use local scripts
+- [Script Example](../../WorkingWithScripts/events/toolevents.lua)
+    - Equipped, UnEquipped, Activated, Deactivated
+    - Manual Activation, Playing a sound
+    - `tool:ScaleTo(num)`

@@ -11,10 +11,10 @@
 
 
 --Syntax: game.Players.PlayerAdded:Connect(function(playerParameter))
-	- game.Players: Players, is an object that is a child of the game object
-	- playerParameter is a variable that holds the player that joined
-	- playerParameter can be named anything, it is just a variable name
-	- playerParameter is only accessible inside the callback function
+	-- game.Players: Players, is an object that is a child of the game object
+	-- playerParameter is a variable that holds the player that joined
+	-- playerParameter can be named anything, it is just a variable name
+	-- playerParameter is only accessible inside the callback function
 
 --can trigger the event in two ways
 
