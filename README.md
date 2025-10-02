@@ -3,18 +3,17 @@
 
 - **[Roblox Creator Hub API Reference:](https://create.roblox.com/docs/reference/engine)**
 
-### 📚 Code Guides Folder
+### 📚 [Code Guides Folder](./Code-Guides/README.md)
 **Fundamental Lua programming concepts**
 - **Basic Programming Concepts:** variables, functions, logical operators, relational operators etc....
 - **Control Flow:** Loops (for, while, nested), conditionals, and flow control (break/continue)
 - **Roblox-Specific Topics:** Working with game objects, properties, and the Workspace
 - **Event-Driven Programming:** Player events, touch events, and callback functions
 
-### 🎮 Games
+### 🎮 [Games](./Games/README.md)
 **Practical projects for applying learned concepts**
-- **Obstacle Course Game:** A complete game project with multiple versions showing progression
-- **Ramp Game:** Another game project with modular components and kill zones
-**Versioned Development:** Shows how projects evolve with version1, version2 directories
+
+- **Versioned Development:** Shows how projects evolve with version1, version2 directories
 
 ### 🚀 Progressive Learning Approach
 **Starts with basic Lua concepts and builds up to complex game mechanics**

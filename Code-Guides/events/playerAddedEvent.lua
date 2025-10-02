@@ -1,8 +1,4 @@
---events: actions that happen based on other actions
-
-
 ------PlayerAdded Event
---Players, is an object that is a child of the game object
 --Players.PlayerAdded, is an built in event that is a child of the Players object
 	--triggers when a player joins the game
 	--allows you to connect to a function to run when triggered
@@ -15,6 +11,10 @@
 
 
 --Syntax: game.Players.PlayerAdded:Connect(function(playerParameter))
+	- game.Players: Players, is an object that is a child of the game object
+	- playerParameter is a variable that holds the player that joined
+	- playerParameter can be named anything, it is just a variable name
+	- playerParameter is only accessible inside the callback function
 
 --can trigger the event in two ways
 

@@ -2,6 +2,7 @@
 - their ia a Players Folder, Player Object and Player Character, it is important tel know the difference between thses
 
 # Players Folder
+- Players, is an object that is a child of the game object
 - In Explorer under the Workspace folder
 - This folder is empty during developemnt, unless we add something to it
 
