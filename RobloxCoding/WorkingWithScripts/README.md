@@ -17,13 +17,13 @@
 
 
 - [Client-Server Model](./ClientServerModel.md)
-- [GarbageCollection](./GarbageCollection.md)
+- [Garbage Collection](./GarbageCollection.md)
 - [Server Scripts](./ServerScripts.md)
 - [LocalScripts](./LocalScripts.md)
 - [ModuleScripts](./ModuleScripts.md)
 - [Conditionals](./conditionals/README.md)
 - [Events](./events/README.md)
-
+- [Colors](./otherscode/colors.lua)
 
 
 <!-- ### 
