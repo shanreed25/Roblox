@@ -76,3 +76,11 @@ ____________________________________________________________________
 - **Workspace:** the client can see and interact with parts of the Workspace that are replicated to them by the server
 - **PlayerGui:** each player has their own PlayerGui folder which is a local copy of the StarterGui 
 - **ReplicatedFirst:** contents are replicated to the client before any other part of the game
+
+
+## Remote Events
+**There are three way of communicating from the server and client with Remote events**
+1. From Client ➡️ Server
+2. Server ➡️ Client
+3. Server ➡️ To All Clients
+**Learn more here ➡️ https://create.roblox.com/docs/scripting/events/remote#quick-reference

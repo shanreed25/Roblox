@@ -1,4 +1,32 @@
 --INSTANCE---------------
+--Instance.new('ClassName')
+--Instances are the building blocks of Roblox games
+--They are used to create all objects in the game, including parts, models, and scripts
+--You can create instances using the Instance.new() function
+--For example, to create a new part, you would use Instance.new('Part')
+--This would create a new part instance that you can then manipulate and add to the game world
+--Instances have properties that you can set to change their appearance and behavior
+--For example, you can set the Size, Position, and Color of a part instance
+--You can also parent instances to other instances to create a hierarchy
+--For example, you can parent a part instance to the Workspace instance to make it appear in the game world
+--Instances can also have events that you can connect to functions to respond to changes in the instance
+--For example, you can connect to the Touched event of a part instance to run a function when the part is touched by another object
+--Overall, instances are a fundamental part of Roblox game development and are essential for creating interactive and engaging games
+--Understanding how to create and manipulate instances is crucial for any Roblox developer
+--Instance.new('ClassName', parent, properties)
+--ClassName: The name of the class you want to create
+--parent: (optional) The parent instance to which the new instance will be added
+--properties: (optional) A table of properties to set on the new instance
+
+
+
+
+
+
+
+
+
+
 --a instance is any object in the game
 -- a script, a model, spawn location etc.....
 --you can add instaces by using exploer or other places in the GUI

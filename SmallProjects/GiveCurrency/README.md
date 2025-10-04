@@ -8,16 +8,7 @@
 **This project demonstrates how to allow a player to press a button and update their coins value and ensuring the change is seen by everyone**
 
 ### Features
-#### ServerScripts
-- RemoteEvent Object
-- `OnServerEvent` event
-
-#### LocalScript
-- ScreenGUI Object
-- RemoteEvent Object
-    - `FireServer()` method on the RemoteEvent object
-- TextButton Object
-
+- [RemoteEvent: Client ➡️ Server](https://create.roblox.com/docs/scripting/events/remote#client-server)
 
 
 ### Process
