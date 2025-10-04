@@ -6,8 +6,6 @@
 ### 📚 [Roblox Coding](./RobloxCoding/README.md)
 - [Getting Started: Roblox Studio](./RobloxCoding/GettingStarted.md)
     - Learn how to get started coding in Roblox Studio
-- [Client Server Model](./Concepts/ClientServerModel.md)
-    - Learn about the Client Server model Roblox uses by default for all experiences
 - [Data Model](./Concepts/DataModel.md)
     - Learn about the root Instance of Roblox's parent/child hierarchy
 - [Scripts](./Concepts/Scripts/README.md)

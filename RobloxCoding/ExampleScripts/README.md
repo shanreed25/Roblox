@@ -15,8 +15,6 @@
 ### Start Writing Scripts
 - to start writing scripts make sure you have the explorer, properties and output windows visiable
 
-
-- [Client-Server Model](./ClientServerModel.md)
 - [Garbage Collection](./GarbageCollection.md)
 - [Server Scripts](./ServerScripts.md)
 - [LocalScripts](./LocalScripts.md)
