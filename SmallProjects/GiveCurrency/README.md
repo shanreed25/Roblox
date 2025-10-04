@@ -1,6 +1,6 @@
 # Give Currency: Communicate Between Server and Client
 **When the button is clicked it will add coins to the players coins stats**
-## Purpose
+## Purpose: Comunication from the Client to the server
 - You cannot directly change the server's game state from a client-side LocalScript due to security measures like Filtering Enabled
     - like changing a part's color to make it visible to everyone, or to updating the coins of a player
     - you can change a parts color or update coins on the client but that change will only happen for the current player
