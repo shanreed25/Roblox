@@ -6,7 +6,7 @@
 
 
 ### Features
-- [RemoteEvent: Server ➡️ Client](https://create.roblox.com/docs/scripting/events/remote#client-server)
+- [RemoteEvent: Server ➡️ Client](https://create.roblox.com/docs/scripting/events/remote#server-client)
 
 
 ### Process
