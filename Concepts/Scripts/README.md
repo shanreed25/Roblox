@@ -3,17 +3,20 @@
 - used to add custom behaviors and interactivity to a Roblox experience, allowing developers to automate actions, respond to player input, create game mechanics like leaderboards, and control NPCs
 - they instruct the Roblox engine to perform operations on its data model
 - Scripts use Luau, a language based on Lua, to define instructions for the game. 
+- To understand how scripts work in Roblox you must understand the [Client-Server Model](./ClientServerModel.md) that Roblox uses
+
+## ✨ Roblox Scripts
 - **Can be categorized into three main types:** 
-    - **Server Scripts:** for server-side actions affecting all players
-        - run on the game's server and affect all players, handling shared game logic. 
-    - **LocalScripts:** for player-specific actions visible only to that client
-        - run on a player's client, affecting only that specific user and used for UI or player-specific features. 
-    - **ModuleScripts:** for organizing and reusing code across other scripts
-        - are for code organization and reusability, allowing other scripts to call their functions. 
+    - [Server Scripts](./ServerScripts.md)
+        - for server-side actions affecting all players
+    - [LocalScripts](./LocalScripts.md)
+        - for player-specific actions visible only to that client
+    - [ModuleScripts](./ModuleScripts.md)
+        - for organizing and reusing code across other scripts
 
 ## 👁️ How Roblox Scripts Work
 - **Programming Language:** Scripts use Luau, a language based on Lua, to define instructions for the game. 
-- **Engine Interaction:** Scripts interact with the Roblox engine's [data model](./DataModel.md) to manipulate game elements and trigger events. 
+- **Engine Interaction:** Scripts interact with the Roblox engine's [data model](../DataModel.md) to manipulate game elements and trigger events. 
 
 ### Simulate and Test
 **To "simulate" your scripts in Roblox, you need to run the game or use the dedicated testing modes in Roblox Studio to see your scripts in action and check for errors.**
@@ -27,13 +30,43 @@
     - this mode is primarily used for testing scripts, physics, and other game mechanics without the influence of a player character
     - you can observe how objects fall or how scripts interact with the environment without an avatar present. 
 - **Servers & Clients:** refer to the distinct computing environments within these simulations
-    - Learn More aboudt the Servers & Clients [here](../WorkingWithScripts/ClientServerModel.md)
+    - Learn More aboudt the Servers & Clients [here](../ClientServerModel.md)
 
 
 
 
 
 
+
+
+
+### Start Writing Scripts
+- to start writing scripts make sure you have the explorer, properties and output windows visiable
+
+
+- [Client-Server Model](./ClientServerModel.md)
+- [Garbage Collection](./GarbageCollection.md)
+- [Server Scripts](./ServerScripts.md)
+- [LocalScripts](./LocalScripts.md)
+- [ModuleScripts](./ModuleScripts.md)
+- [Conditionals](./conditionals/README.md)
+- [Events](./events/README.md)
+- [Colors](./otherscode/colors.lua)
+
+
+<!-- ### 
+- Variables
+    - like a named box with some information in it
+- Function
+- Events -->
+
+<!-- 
+- Beginner Scripting - https://www.youtube.com/watch?v=dRgvhjr2Dx0
+- Advanced Scripting - https://www.youtube.com/watch?v=dRgvhjr2Dx0 
+
+
+
+-->
 
 
 

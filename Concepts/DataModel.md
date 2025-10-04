@@ -5,5 +5,3 @@
 
 - direct children are services, such as Workspace and Lighting
     - thes are the fundamental components of a Roblox game
-
-- [Scripts](./Scripts.md)

@@ -7,10 +7,10 @@
 
 ## Create a Local Script
 - Add a local script
-    - ![local-script](./images/local-script.png)
+    - ![local-script](../images/local-script.png)
 - this will bring up the script editor where we will write our script
 - when we run a script on the client you will see the output in blue
-    - ![local-script-output](./images/client-script-output.png)
+    - ![local-script-output](../images/client-script-output.png)
 
 - Add a part to the baseplate and use the properties window to give it a differnt color
 - write a script to make the color change when a player steps on it 

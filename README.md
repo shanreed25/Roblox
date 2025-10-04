@@ -4,19 +4,22 @@
 - **[Roblox Creator Hub API Reference:](https://create.roblox.com/docs/reference/engine)**
 
 ### 📚 [Roblox Coding](./RobloxCoding/README.md)
-- [Getting Started: Roblox Studio](./RobloxCoding/Getting%20Started/README.md)
+- [Getting Started: Roblox Studio](./RobloxCoding/GettingStarted.md)
     - Learn how to get started coding in Roblox Studio
-- [Data Model](./RobloxCoding/Getting%20Started/DataModel.md)
+- [Client Server Model](./Concepts/ClientServerModel.md)
+    - Learn about the Client Server model Roblox uses by default for all experiences
+- [Data Model](./Concepts/DataModel.md)
     - Learn about the root Instance of Roblox's parent/child hierarchy
-- [Scripts](./RobloxCoding/Getting%20Started/Scripts.md)
+- [Scripts](./Concepts/Scripts/README.md)
     - Learn what scripts are and how they instruct the Roblox engine to perform operations
-- [Working With Scripts](./RobloxCoding/WorkingWithScripts/README.md)
-    - **Fundamental Lua programming concepts:** variables, functions, logical operators, relational operators etc....
+- [Working With Scripts](./RobloxCoding/ExampleScripts/)
+    - **Fundamental Lua coding concepts:** variables, functions, logical operators, relational operators etc....
     - **Control Flow:** Loops (for, while, nested), conditionals, and flow control (break/continue)
     - **Event-Driven Programming:** Player events, touch events, and callback functions
     - **Garbage Collection:** handling unnecessary or unneeded objects or instances
-- [Roblox Objects](./RobloxCoding/RobloxObjects/README.md)
-    - **Roblox-Specific Topics:** Working with game objects, properties, and the Workspace
+- [Roblox-Specific Topics](./Concepts/README.md)
+    - Data, and Client Server Models, Scripts, Task Scheduler
+    - Working with game objects, properties, and the Workspace
 
 
 ### 🎮 [Games](./Games/README.md)
