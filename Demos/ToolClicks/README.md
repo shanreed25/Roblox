@@ -1,11 +1,7 @@
 # Tool Clicks
-<!-- ### Functionality
-1. When tool is equipped a sound plays
-2. When tool is activated it 
-    - scales up to 2 
-    - changes to a random color every 0.5 seconds
-    - adds 1 to the leaderstat Clicked
-3. When tool is deactivated it scales back down to 1 -->
+**Player can click a tool and equip and uneuipp it. The tool makes a sound when euipped, and changes color and scales when activated**
+## Purpose: To create Tools and used them
+
 
 ### Features
 - [Creating Tools]()
@@ -14,6 +10,12 @@
 
 
 ### Process
+1. Player clicks on a tool and it makes a sound to indicate that it has been euipped
+2. When tool is activated it 
+    - scales up to 2 
+    - changes to a random color every 0.5 seconds
+    - adds 1 to the leaderstat Clicked
+3. When tool is deactivated it scales back down to 1 -->
 
 <!-- ### How to Duplicate
 ##### Step Up Tool
@@ -33,3 +35,5 @@
     - code from [`leaderstatsScript.lua`](./leaderstatsScript.lua) goes in this script file -->
 
 **Test and run the game**
+
+
